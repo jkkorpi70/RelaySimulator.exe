@@ -1,0 +1,101 @@
+10!res
+wire! !0!1!1!0!1!line_ld!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+buttonNC!S0!1!0!1!0!1!btn_NC_c!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+wire! !1!0!1!1!1!line_udr!0
+wire! !0!1!1!1!1!line_ldr!0
+wire! !0!1!1!1!1!line_ldr!0
+wire! !0!1!1!1!1!line_ldr!0
+wire! !0!1!1!0!1!line_ld!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+buttonNO!S1!1!0!1!0!0!btn_NO_o!0
+contactNO!K1!1!0!1!0!0!contact_NO_o!0
+contactNO!K2!1!0!1!0!0!contact_NO_o!0
+contactNC!K3!1!0!1!0!1!contact_NC_c!0
+contactNO!K3!1!0!1!0!0!contact_NO_o!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+line_empty! !0!0!0!0!0!line_empty!0
+wire! !1!0!1!1!1!line_udr!0
+wire! !1!1!1!0!1!line_uld!0
+wire! !1!0!1!0!1!line_ud!0
+contactNO!K1!1!0!1!0!0!contact_NO_o!0
+wire! !1!0!0!1!1!line_ur!0
+wire! !0!1!1!1!1!line_ldr!0
+wire! !0!1!1!1!1!line_ldr!0
+wire! !0!1!1!1!1!line_ldr!0
+wire! !0!1!1!0!1!line_ld!0
+line_empty! !0!0!0!0!0!line_empty!0
+wire! !1!0!1!0!1!line_ud!0
+contactNC!K5!1!0!1!0!1!contact_NC_c!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!1!1!line_udr!0
+wire! !0!1!1!0!1!line_ld!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+contactNC!K4!1!0!1!0!1!contact_NC_c!0
+contactNO!K4!1!0!1!0!0!contact_NO_o!0
+line_empty! !0!0!0!0!0!line_empty!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+contactNC!K3!1!0!1!0!1!contact_NC_c!0
+contactNO!K2!1!0!1!0!0!contact_NO_o!0
+contactNO!K4!1!0!1!0!0!contact_NO_o!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+line_empty! !0!0!0!0!0!line_empty!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!1!1!line_udr!0
+wire! !1!1!0!0!1!line_ul!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+wire! !1!0!1!0!1!line_ud!0
+line_empty! !0!0!0!0!0!line_empty!0
+relaycoil!K1!1!0!1!0!1!coil_norm!0
+ontimercoil!K2!1!0!1!0!1!coil_ontimer!2
+ontimercoil!K3!1!0!1!0!1!coil_ontimer!2
+redlight!H1!1!0!1!0!1!light_r_off!0
+yellowlight!H2!1!0!1!0!1!light_y_off!0
+line_empty! !0!0!0!0!0!line_empty!0
+ontimercoil!K4!1!0!1!0!1!coil_ontimer!2
+greenlight!H3!1!0!1!0!1!light_g_off!0
+ontimercoil!K5!1!0!1!0!1!coil_ontimer!2
+line_empty! !0!0!0!0!0!line_empty!0
+wire! !1!1!0!1!1!line_ulr!0
+wire! !1!1!0!1!1!line_ulr!0
+wire! !1!1!0!1!1!line_ulr!0
+wire! !1!1!0!1!1!line_ulr!0
+wire! !1!1!0!1!1!line_ulr!0
+wire! !0!1!0!1!1!line_lr!0
+wire! !1!1!0!1!1!line_ulr!0
+wire! !1!1!0!1!1!line_ulr!0
+wire! !1!1!0!0!1!line_ul!0
+line_empty! !0!0!0!0!0!line_empty!0
